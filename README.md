@@ -8,9 +8,9 @@
 
 **🟠 Ask me about Front-end track**
 
-**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnsamoel/), <a href="mailto:joo.samoel22@gmail.com" target="_blanck"> Gmail </a>**
+**🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnsamoel/), <a href="mailto:johnsamoel82@gmail.com" target="_blanck"> Gmail </a>**
 
-**🟠 Check [my resume](https://drive.google.com/file/d/1y8upPAQjnbOdpLKenJeBa1JLZqwUk2Wi/view?usp=sharing)**
+**🟠 Check [my resume](https://drive.google.com/file/d/1eawQPJ1-N6PDDUXMA6pnDEg9Gcg2zYts/view?usp=sharing)**
 
 <!-- **🟠 I’m currently learning at** ![](https://img.shields.io/badge/Microverse-blueviolet) -->
 
