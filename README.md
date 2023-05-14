@@ -18,4 +18,4 @@
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=react,redux,next,node,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,figma,vscode,github,vercel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,redux,next,javascript,typescript,html,css,scss,bootstrap,tailwindcss,jest,webpack,figma,vscode,github,vercel)](https://skillicons.dev)
