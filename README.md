@@ -6,7 +6,7 @@
 
 **🔵 I'm a Software Engineer**   
 
-**🟠 Ask me about Front-end track**
+**🟠 Ask me about Back-end track**
 
 **🔵 How to reach me: [LinkedIn](https://www.linkedin.com/in/johnsamoel/), <a href="mailto:johnsamoel82@gmail.com" target="_blanck"> Gmail </a>**
 
